@@ -16,9 +16,6 @@ put the directory under aplications lib directory and inside ```application.rb``
 
 ### To create a cart
 ``` Services::Cart.new.create ```
-
-## TODO
-
 ### To add an item to a cart
 ``` Services::Cart.new.add_item ```
 ### To get a cart
